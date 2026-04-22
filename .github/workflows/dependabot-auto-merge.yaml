@@ -1,6 +1,5 @@
 # Source: https://github.com/qoomon/actions/blob/main/workflows/dependabot-auto-merge.yaml
-# Version: 1.0.1
-
+# Version: 1.0.2
 # Repository Setup
 # - Settings > General > Check "Allow auto-merge Loading"
 #   => https://github.com/OWNER/REPO/settings
