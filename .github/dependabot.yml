@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "../j../"
+    dddddirectory: "../j../"
     schedule:
       interval: "hourly"
